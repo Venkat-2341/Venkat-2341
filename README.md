@@ -3,9 +3,9 @@
 I'm a passionate **AI/ML enthusiast** and a student exploring various aspects of **machine learning**, **software development**, and **IoT-based projects**.
 
 - 🎯 Currently working on: `Generative AI`
-- 📚 Learning: `React`, `Deep Learning`, `Generative AI`, `DevO`
+- 📚 Learning: `React`, `Deep Learning`, `DevOps`
 - 💡 Open to collaborate on AI ML projects.
-- 📧 Reach me at: [your email](mailto:your-email@example.com)
+- 📧 Reach me at: [vke.1743@gmail.com](vke.1743@gmail.com)
 
 ---
 
