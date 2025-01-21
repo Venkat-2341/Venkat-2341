@@ -2,10 +2,9 @@
 
 I'm a passionate **AI/ML enthusiast** and a student exploring various aspects of **machine learning**, **software development**, and **IoT-based projects**.
 
-- 🎯 Currently working on: `Generative AI Workflow Diagram Generator`
-- 🔬 Exploring: `Raspberry Pi Speech Recognition & TTS`
-- 📚 Learning: `React`, `OpenTelemetry`, `Number Theory`
-- 💡 Open to collaborate on AI and IoT projects.
+- 🎯 Currently working on: `Generative AI`
+- 📚 Learning: `React`, `Deep Learning`, `Generative AI`, `DevO`
+- 💡 Open to collaborate on AI ML projects.
 - 📧 Reach me at: [your email](mailto:your-email@example.com)
 
 ---
