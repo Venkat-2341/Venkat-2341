@@ -22,7 +22,7 @@ I'm a passionate **AI/ML enthusiast** and a student exploring various aspects of
 
 ## 📊 GitHub Stats
 
-![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkat-2341&show_icons=true&theme=radical)
 
 ---
 
