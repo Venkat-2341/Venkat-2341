@@ -25,11 +25,18 @@ I'm a passionate **AI/ML enthusiast** and a student exploring various aspects of
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### **Domains**
+### **DevOps & Monitoring**
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-2F3033?style=for-the-badge&logo=jaeger&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Machine Learning & Data Labeling**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge&logo=sklearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8E24AA?style=for-the-badge&logo=spacy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge&logo=spacy&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge&logo=opencv&logoColor=white)
+![Label Studio](https://img.shields.io/badge/Label%20Studio-F47E33?style=for-the-badge&logo=labelstudio&logoColor=white)
 
 ### **Hardware & IoT**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
