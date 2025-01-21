@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Venkat 👋
 
-<!--
-**Venkat-2341/Venkat-2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **AI/ML enthusiast** and a student exploring various aspects of **machine learning**, **software development**, and **IoT-based projects**.
 
-Here are some ideas to get you started:
+- 🎯 Currently working on: `Generative AI Workflow Diagram Generator`
+- 🔬 Exploring: `Raspberry Pi Speech Recognition & TTS`
+- 📚 Learning: `React`, `OpenTelemetry`, `Number Theory`
+- 💡 Open to collaborate on AI and IoT projects.
+- 📧 Reach me at: [your email](mailto:your-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+
